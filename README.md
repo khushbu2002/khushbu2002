@@ -1,4 +1,4 @@
-# Hi, I'm Khushbu 👋
+# Hi, I'm Khushbu Koul👋
 
 Aspiring Software Engineer with a strong interest in Backend Development.  
 I work primarily with Java and am currently building backend systems using Spring Boot, REST APIs, and SQL.  
