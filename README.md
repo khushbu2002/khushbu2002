@@ -109,5 +109,6 @@ To secure a **Backend / Software Engineering Internship** where I can:
 📫 **Connect with me**
 - GitHub: you're already here 🙂
 - LinkedIn: https://www.linkedin.com/in/khushbukoul/
+- Email: khushbukoul2@gmail.com
 
 -->
