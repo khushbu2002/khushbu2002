@@ -1,6 +1,6 @@
 # Hi, I'm Khushbu Koul👋
 
-Aspiring Software Engineer with a strong interest in Backend Development.  
+Aspiring Software Engineer with a strong interest in Quality Assurance and Backend Development.  
 I work primarily with Java and am currently building backend systems using Spring Boot, REST APIs, and SQL.  
 I enjoy understanding how real-world systems work, validating business logic, and designing clean backend solutions.
 
