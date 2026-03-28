@@ -12,6 +12,8 @@ I enjoy understanding how real-world systems work, validating business logic, an
 - Java (Core Java, OOP)
 - Spring Boot (REST APIs, backend validation – learning & hands-on)
 - SQL (MySQL)
+- SDLC & STLC
+- Selenium Webdriver (basic)
 
 ### Tools & Platforms
 - Git & GitHub
@@ -99,9 +101,11 @@ I enjoy understanding how real-world systems work, validating business logic, an
 
 ## 📈 Career Goal
 
-To secure a **Backend / Software Engineering Internship** where I can:
+To secure a **Backend / Software Engineering / SDET Internship** where I can:
 - Work on real backend systems
 - Improve API design and data handling skills
+- Build a quality product.
+- Work on real world projects that surves some purpose.
 - Grow as a professional software engineer
 
 ---
