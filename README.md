@@ -12,8 +12,10 @@ I enjoy understanding how real-world systems work, validating business logic, an
 - Java (Core Java, OOP)
 - Spring Boot (REST APIs, backend validation – learning & hands-on)
 - SQL (MySQL)
-- SDLC & STLC
+- SDLC
+- STLC
 - Selenium Webdriver (basic)
+- Agile, Scrum and Kanban
 
 ### Tools & Platforms
 - Git & GitHub
